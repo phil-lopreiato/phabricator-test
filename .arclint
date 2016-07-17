@@ -1,0 +1,13 @@
+{
+  "linters": {
+    "test": {
+      "type": "text"
+    },
+    "spelling": {
+      "type": "spelling"
+    },
+    "merge-conflict": {
+      "type": "merge-conflict"
+    }
+  }
+}
